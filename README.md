@@ -6,7 +6,7 @@
 | 구분 | 링크 |
 |---|---|
 | 랜딩 페이지 | https://ygrcap1234-byte.github.io/3-TEAM/ |
-| 칸반 보드 | (프로젝트 탭 참고) |
+| 칸반 보드 | https://github.com/users/ygrcap1234-byte/projects/2 |
 | 마일스톤 | https://github.com/ygrcap1234-byte/3-TEAM/milestones |
 | 이슈 | https://github.com/ygrcap1234-byte/3-TEAM/issues |
 
