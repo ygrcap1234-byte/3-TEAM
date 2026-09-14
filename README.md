@@ -13,7 +13,7 @@
 ![Last commit](https://img.shields.io/github/last-commit/ygrcap1234-byte/3-TEAM)
 ![Closed issues](https://img.shields.io/github/issues-closed/ygrcap1234-byte/3-TEAM)
 
-[**팀 페이지 보기**](https://limahmadarif.github.io/kokodan-team-page/) · [칸반 보드](https://github.com/users/ygrcap1234-byte/projects/2) · [마일스톤](https://github.com/ygrcap1234-byte/3-TEAM/milestones) · [회의록](./회의록)
+[**팀 페이지 보기**](https://limahmadarif.github.io/kokodan-team-page/) · [칸반 보드](https://github.com/users/ygrcap1234-byte/projects/2) · [마일스톤](https://github.com/ygrcap1234-byte/3-TEAM/milestones)
 
 </div>
 
