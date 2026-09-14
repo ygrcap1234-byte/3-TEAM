@@ -104,7 +104,7 @@
 
 ```
 3-TEAM/
-├── index.html                      # 첫 버전 랜딩 페이지
+├── index.html                      # 랜딩 페이지
 ├── css/style.css                   # 스타일
 ├── js/main.js                      # 인터랙션, 팀원·마일스톤 데이터 렌더링
 ├── assets/readme/                  # README 이미지
