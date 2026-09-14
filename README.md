@@ -56,9 +56,9 @@
 
 | | 이름 | 코코단 캐릭터 | 역할 | 한 줄 | 취미 |
 |---|---|---|---|---|---|
-| <img src="https://github.com/ygrcap1234-byte.png?size=80" width="64" alt=""> | **김동규** | 로이 | 팀 리드 · 개발<br>*The Mastermind* 두뇌 풀가동 담당 | "잠깐만요, 이거 방법 있을 것 같은데요?" | 노래 / 헬스 / 영화 |
-| <img src="https://github.com/ghlee050505-web.png?size=80" width="64" alt=""> | **이가현** | 피카츄 | 기획 · 디자인<br>*The Perfectionist* 디테일 집착 담당 | "좋은데... 이것만 조금 수정하면 더 좋을 것 같아요." | 드라마 / 산책 / 카페 |
-| <img src="https://github.com/LimAhmadarif.png?size=80" width="64" alt=""> | **임아메드알리프** | 로사 | 개발 · 리서치<br>*The Refiner* 아이디어 진화 담당 | "좋아요. 그럼 더 좋게 바꿔볼게요." | 드라마 / 축구 / 게임 |
+| <img src="https://github.com/ygrcap1234-byte.png?size=80" width="64" alt=""> | **김동규** | 로이 | <br>*The Mastermind* 두뇌 풀가동 담당 | "잠깐만요, 이거 방법 있을 것 같은데요?" | 노래 / 헬스 / 영화 |
+| <img src="https://github.com/ghlee050505-web.png?size=80" width="64" alt=""> | **이가현** | 피카츄 |<br>*The Perfectionist* 디테일 집착 담당 | "좋은데... 이것만 조금 수정하면 더 좋을 것 같아요." | 드라마 / 산책 / 카페 |
+| <img src="https://github.com/LimAhmadarif.png?size=80" width="64" alt=""> | **임아메드알리프** | 로사 |<br>*The Refiner* 아이디어 진화 담당 | "좋아요. 그럼 더 좋게 바꿔볼게요." | 드라마 / 축구 / 게임 |
 
 ## 프로젝트
 
